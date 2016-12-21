@@ -1,0 +1,39 @@
+
+Presentation Tile:
+- Become a better programmer with Intellij
+- Better programmer with Intellij
+- Listen to your IDE to a better programmer
+
+Tips & Tricks
+
+General
+  Don't ignore the warnings!
+        Java, Js, Maven, HTML, Json,
+      -> Step through with F2
+
+Java
+ Java 8
+Spring
+Database
+
+Version Control
+    todo add a picture of a bad managed and configured project with a lot of changes.
+
+Spelling errors
+    keep them clean-> add your domain Word to the dictionary
+
+Refactoring:
+ Method
+ Inline
+ Extract
+
+JavaScript
+  JsHint
+  Angular Plugins
+  Js-CodeCoverage
+Grunt Integration
+
+Live Edit
+
+CodeCoverage
+
