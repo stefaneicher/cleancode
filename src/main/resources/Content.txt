@@ -37,3 +37,34 @@ Live Edit
 
 CodeCoverage
 
+
+
+Post Notizen:
+Most important Ctrl+Shift+A, Ctrl+Ctril+E, Ctrl-E
+Zeilen schieben, mark word
+
+Bookmarks
+Suche:
+Files, Symbols, Ignore Folders wegen der Suche
+Regex
+Click everywhere, Maven, Java, XML
+Autocomplete everywhere, Java, Maven, DB,...
+Editor: F2
+Maven: Maven debug, Ctrl+Shift+M
+DB
+Refactoring
+Multicursor, Move lines
+SVN Proterties, Merge Ansicht
+JSF
+Spring
+Plugins: Maven, Keymaps, Atlassian
+Terminal
+Grunt
+Karam
+LiveEdit
+Jrebel
+Presentation mode
+Übersetzungen msg ['key?']
+Plugins
+Shelve
+
